@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fa946ec.chunk.css",
-    "main.js": "/static/js/main.6fe16e0b.chunk.js",
-    "main.js.map": "/static/js/main.6fe16e0b.chunk.js.map",
+    "main.css": "/static/css/main.f6bb77aa.chunk.css",
+    "main.js": "/static/js/main.219d047e.chunk.js",
+    "main.js.map": "/static/js/main.219d047e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.716baaad.js",
     "runtime-main.js.map": "/static/js/runtime-main.716baaad.js.map",
     "static/css/2.1cc9201e.chunk.css": "/static/css/2.1cc9201e.chunk.css",
-    "static/js/2.b7c4773e.chunk.js": "/static/js/2.b7c4773e.chunk.js",
-    "static/js/2.b7c4773e.chunk.js.map": "/static/js/2.b7c4773e.chunk.js.map",
+    "static/js/2.9ab30727.chunk.js": "/static/js/2.9ab30727.chunk.js",
+    "static/js/2.9ab30727.chunk.js.map": "/static/js/2.9ab30727.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1cc7d220bf38a6409071119906cf4225.js": "/precache-manifest.1cc7d220bf38a6409071119906cf4225.js",
+    "precache-manifest.b6e8e38f4f65a5918a600efceabad6b5.js": "/precache-manifest.b6e8e38f4f65a5918a600efceabad6b5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1cc9201e.chunk.css.map": "/static/css/2.1cc9201e.chunk.css.map",
-    "static/css/main.4fa946ec.chunk.css.map": "/static/css/main.4fa946ec.chunk.css.map",
-    "static/js/2.b7c4773e.chunk.js.LICENSE": "/static/js/2.b7c4773e.chunk.js.LICENSE",
+    "static/css/main.f6bb77aa.chunk.css.map": "/static/css/main.f6bb77aa.chunk.css.map",
+    "static/js/2.9ab30727.chunk.js.LICENSE": "/static/js/2.9ab30727.chunk.js.LICENSE",
     "static/media/10.jpg": "/static/media/10.ceb8d579.jpg",
     "static/media/11071505_1073760285984200_6826171892729461459_n.jpg": "/static/media/11071505_1073760285984200_6826171892729461459_n.019d16b7.jpg",
     "static/media/11218987_1045240275510454_1995762439039503903_n.jpg": "/static/media/11218987_1045240275510454_1995762439039503903_n.41c0574c.jpg",
@@ -87,6 +87,7 @@
     "static/media/game2.png": "/static/media/game2.2b9976e5.png",
     "static/media/game3.png": "/static/media/game3.9fec1b99.png",
     "static/media/game4.png": "/static/media/game4.a3d6c036.png",
+    "static/media/graphics.mp4": "/static/media/graphics.6ddd9340.mp4",
     "static/media/graphics.png": "/static/media/graphics.b0b2a981.png",
     "static/media/info.PNG": "/static/media/info.664ac610.PNG",
     "static/media/info2.PNG": "/static/media/info2.1fcdcbe7.PNG",
@@ -133,8 +134,8 @@
   "entrypoints": [
     "static/js/runtime-main.716baaad.js",
     "static/css/2.1cc9201e.chunk.css",
-    "static/js/2.b7c4773e.chunk.js",
-    "static/css/main.4fa946ec.chunk.css",
-    "static/js/main.6fe16e0b.chunk.js"
+    "static/js/2.9ab30727.chunk.js",
+    "static/css/main.f6bb77aa.chunk.css",
+    "static/js/main.219d047e.chunk.js"
   ]
 }
