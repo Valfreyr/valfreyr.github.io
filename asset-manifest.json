@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6bb77aa.chunk.css",
-    "main.js": "/static/js/main.219d047e.chunk.js",
-    "main.js.map": "/static/js/main.219d047e.chunk.js.map",
+    "main.css": "/static/css/main.bb4cc5bd.chunk.css",
+    "main.js": "/static/js/main.f42feebb.chunk.js",
+    "main.js.map": "/static/js/main.f42feebb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.716baaad.js",
     "runtime-main.js.map": "/static/js/runtime-main.716baaad.js.map",
     "static/css/2.1cc9201e.chunk.css": "/static/css/2.1cc9201e.chunk.css",
-    "static/js/2.9ab30727.chunk.js": "/static/js/2.9ab30727.chunk.js",
-    "static/js/2.9ab30727.chunk.js.map": "/static/js/2.9ab30727.chunk.js.map",
+    "static/js/2.14457e61.chunk.js": "/static/js/2.14457e61.chunk.js",
+    "static/js/2.14457e61.chunk.js.map": "/static/js/2.14457e61.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b6e8e38f4f65a5918a600efceabad6b5.js": "/precache-manifest.b6e8e38f4f65a5918a600efceabad6b5.js",
+    "precache-manifest.2d757e3fdbdb843efecc98a84f39e865.js": "/precache-manifest.2d757e3fdbdb843efecc98a84f39e865.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1cc9201e.chunk.css.map": "/static/css/2.1cc9201e.chunk.css.map",
-    "static/css/main.f6bb77aa.chunk.css.map": "/static/css/main.f6bb77aa.chunk.css.map",
-    "static/js/2.9ab30727.chunk.js.LICENSE": "/static/js/2.9ab30727.chunk.js.LICENSE",
+    "static/css/main.bb4cc5bd.chunk.css.map": "/static/css/main.bb4cc5bd.chunk.css.map",
+    "static/js/2.14457e61.chunk.js.LICENSE": "/static/js/2.14457e61.chunk.js.LICENSE",
     "static/media/10.jpg": "/static/media/10.ceb8d579.jpg",
     "static/media/11071505_1073760285984200_6826171892729461459_n.jpg": "/static/media/11071505_1073760285984200_6826171892729461459_n.019d16b7.jpg",
     "static/media/11218987_1045240275510454_1995762439039503903_n.jpg": "/static/media/11218987_1045240275510454_1995762439039503903_n.41c0574c.jpg",
@@ -29,6 +29,7 @@
     "static/media/DSC_0567.JPG": "/static/media/DSC_0567.3817caac.JPG",
     "static/media/DSC_0946.JPG": "/static/media/DSC_0946.98b28332.JPG",
     "static/media/Designer;s Nest.png": "/static/media/Designer;s Nest.e3b66e4f.png",
+    "static/media/Hall.png": "/static/media/Hall.2f990442.png",
     "static/media/IMG-20150218-WA0003.jpg": "/static/media/IMG-20150218-WA0003.765070b2.jpg",
     "static/media/IMG-20150218-WA0006.jpg": "/static/media/IMG-20150218-WA0006.c9b802eb.jpg",
     "static/media/IMG-20150218-WA0008.jpg": "/static/media/IMG-20150218-WA0008.c136f018.jpg",
@@ -69,7 +70,9 @@
     "static/media/Screenshot_20190501-212731.png": "/static/media/Screenshot_20190501-212731.73ace575.png",
     "static/media/Screenshot_20190501-212750.png": "/static/media/Screenshot_20190501-212750.4d1fa184.png",
     "static/media/Screenshot_20190501-212816.png": "/static/media/Screenshot_20190501-212816.93619869.png",
+    "static/media/App.css": "/static/media/Ubisoft_Reflections.ef69ef66.png",
     "static/media/UntitledSideScroller.png": "/static/media/UntitledSideScroller.cf504888.png",
+    "static/media/Website.PNG": "/static/media/Website.bd2ead76.PNG",
     "static/media/Zelkaahl.jpg": "/static/media/Zelkaahl.57ff686f.jpg",
     "static/media/Zelkaahl1.jpg": "/static/media/Zelkaahl1.514b48c6.jpg",
     "static/media/aikido.PNG": "/static/media/aikido.0f35edee.PNG",
@@ -134,8 +137,8 @@
   "entrypoints": [
     "static/js/runtime-main.716baaad.js",
     "static/css/2.1cc9201e.chunk.css",
-    "static/js/2.9ab30727.chunk.js",
-    "static/css/main.f6bb77aa.chunk.css",
-    "static/js/main.219d047e.chunk.js"
+    "static/js/2.14457e61.chunk.js",
+    "static/css/main.bb4cc5bd.chunk.css",
+    "static/js/main.f42feebb.chunk.js"
   ]
 }
